@@ -1,0 +1,32 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    color: blue;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.display-4{
+    text-align: center;
+    font-size: 75px;
+}
+.lead{
+    text-align: center;
+    font-size: 15px;
+}
+.jumbotron{
+    padding: 30px;
+}
+#inquiry{
+    font-size: 20px;
+    padding-left: 25px;
+    margin-bottom: 15px;
+}
+#answers{
+    font-size: 15px;
+    border-width: 3px;
+}
+h2{
+    color: red;
+}
+h3{
+    color: green;
+}
